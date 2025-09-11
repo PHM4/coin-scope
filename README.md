@@ -25,7 +25,7 @@ It fetches live data from the [CoinGecko API](https://www.coingecko.com) and dis
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOURUSERNAME/coin-scope.git
+git clone https://github.com/phm4/coin-scope.git
 cd coin-scope
 npm install
 npm run dev
