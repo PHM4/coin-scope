@@ -3,7 +3,7 @@
 A responsive cryptocurrency dashboard built with **React**, **TypeScript**, **Vite** and **Tailwind CSS**.  
 It fetches live data from the [CoinGecko API](https://www.coingecko.com) and displays price, market cap, volume and 24-hour price trends for the top cryptocurrencies in GBP.
 
-![Screenshot](<img width="1882" height="858" alt="image" src="https://github.com/user-attachments/assets/8fd1cf8c-de0a-4de5-b1a0-630ad66dc929" />)
+(<img width="1882" height="858" alt="image" src="https://github.com/user-attachments/assets/8fd1cf8c-de0a-4de5-b1a0-630ad66dc929" />)
 
 ## ✨ Features
 
